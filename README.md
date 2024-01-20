@@ -22,7 +22,7 @@ LockFile is a simple and secure way to encrypt and decrypt files.
 To Use LockFile, follow these steps:
 
 ```bash
-git clone 
+git clone https://github.com/Bharadwajshivam28/LockFile.git
 cd LockFile
 go run . help
 ```
