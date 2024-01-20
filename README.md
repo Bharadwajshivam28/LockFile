@@ -1,6 +1,6 @@
-# LockFile
+# LockFile 🔒
 
-LockFile is a Go-based command-line tool for file encryption and decryption.
+LockFile is a Go-based command-line tool for file encryption and decryption. 🔥🔥🔥
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -27,6 +27,7 @@ To Use LockFile, follow these steps:
 git clone 
 cd 
 go run . help
+```
 
 ## Screenshots
 
